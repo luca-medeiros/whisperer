@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: lightning-muse
+Version: 0.2.0
+Summary: Visualize your words with Lightning Muse App
+Home-page: https://github.com/Lightning-AI/LAI-Stable-Diffusion-App
+Download-URL: https://github.com/Lightning-AI/LAI-Stable-Diffusion-App
+Author: Lightning et al.
+Author-email: aniket@lightning.ai
+License: Apache 2.0
+Keywords: deep learning,pytorch,AI
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+
+Create beautiful works of art in seconds with the Lightning Muse App.
